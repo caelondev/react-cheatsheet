@@ -1,7 +1,7 @@
-import MyComponent from "./MyComponent";
+import Button from "./Counter";
 
 function App() {
-  return <MyComponent/>
+  return <Button />;
 }
 
 export default App;
